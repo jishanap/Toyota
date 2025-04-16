@@ -1,0 +1,232 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    background: #fff;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .05);
+    border: 0;
+    border-bottom: 3px solid #ddd;
+    padding-top: 2px;
+    height: 75px;
+    background-color: #fff;
+}
+.navbar-brand{
+    padding-left: 30px;
+}
+.navbar-nav{
+    font-weight: 700;
+    color: black;
+    font-size: 13px;
+}
+li{
+    padding-left: 12px;
+    padding-top: 9px;
+}
+li:hover{
+    color: rgb(224, 1, 1);
+    text-decoration: underline ;
+    text-underline-offset: 10px ;
+    text-decoration-thickness: 2px;
+}
+.custom-navbar .nav-link {
+    position: relative;
+    transition: color 0.1s ease;
+  }
+
+  .custom-navbar .nav-link:hover {
+    color: rgb(224, 1, 1);
+  }
+
+.phone-icone{
+    height: 22px;
+    padding-top: 1px;
+    margin-left: 170px;
+}
+.pic-two{
+    height: auto;
+    max-width: 100%;
+}
+.side-head{
+    font-weight: 800;
+}
+.icon-strip {
+    background-color: #f9f9f9;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    height: auto;
+  }
+
+  .icon-item {
+    text-align: center;
+  }
+
+  .icon-item img {
+    width: 1rem;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .icon-divider {
+    border-right: 1px solid #ddd;
+  }
+
+  .icon-label {
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  
+
+
+  .cardi-img-top {
+    height: 180px;
+    object-fit: cover;
+  }
+
+  .know-more-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+  }
+
+  .know-more-btn:hover {
+    background-color: darkred;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #000;
+    padding: 20px;
+    border-radius: 50%;
+  }
+
+  .carousel-inner .row {
+    display: flex;
+    justify-content: center;
+  }
+
+  .card-title {
+    font-weight: bold;
+  }
+
+  h2 {
+    font-weight: 700;
+  }
+  
+
+
+
+  
+
+  
+  .press-card {
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    height: 100%;
+  }
+
+  .press-date {
+    font-size: 32px;
+    font-weight: bold;
+    color: #555;
+    line-height: 1;
+  }
+
+  .press-date small {
+    display: block;
+    font-size: 14px;
+    color: #888;
+  }
+
+  .press-content h5 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .press-content p {
+    font-size: 14px;
+    color: #333;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #ccc;
+    border-radius: 50%;
+    padding: 20px;
+    
+  }
+
+
+  .carousel-img {
+    width: 280px; /* Or whatever fits 4 items */
+    height: auto;
+    
+    
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    width: 20px;
+    height: 20px;
+    background-size: 100% 100%;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 4%;
+  }
+
+
+  .toyota-footer {
+    background-color: #2c2c2c;
+    color: white;
+    font-size: 0.9rem;
+  }
+  
+  .toyota-footer a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .toyota-footer a:hover {
+    color: #ccc;
+    text-decoration: none;
+    
+  }
+  
+  .toyota-footer ul {
+    padding-left: 0;
+    text-decoration: none;
+  }
+  .toyota-footer li {
+    padding-left: 0;
+    text-decoration: none;
+  }
+  
+  .toyota-footer h6 {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  
+  
+
+  
+
+ 
+ 
+
+  
